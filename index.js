@@ -29,15 +29,17 @@ app.get('/chefinfo/:id', (req, res) => {
     
 });
 
+// API for All Recipes
 
 app.get('/recipes', (req, res) => {
-   res.send(recipes);
-});
-
-// app.get('/recipes/:id', (req, res) => {
-//     const id = (req.params.recipe_id);
-//     console.log(id);
-// });
+    res.send(recipes);
+ });
+ 
+ // app.get('/recipes/:id', (req, res) => {
+ //     const id = (req.params.recipe_id);
+ //     console.log(id);
+ // });
+ 
 
 
 app.listen(port, () =>{
