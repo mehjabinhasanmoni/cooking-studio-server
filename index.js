@@ -12,12 +12,32 @@ app.get('/', (req, res) =>{
     res.send('Cooking Studio is Running');
 });
 
+// API for ChefInfo
 
 app.get('/chefinfo', (req, res) => {
     res.send(chefinfo);
 });
 
+// API for ChefInfo id wise recipes
 
+app.get('/chefinfo/:id', (req, res) => {
+    const {id} = req.params;
+    console.log(id);
+
+    const chefRecipes = recipes.filter(n=>n.chef_id === id);
+    res.send(chefRecipes);
+    
+});
+
+
+app.get('/recipes', (req, res) => {
+   res.send(recipes);
+});
+
+// app.get('/recipes/:id', (req, res) => {
+//     const id = (req.params.recipe_id);
+//     console.log(id);
+// });
 
 
 app.listen(port, () =>{
