@@ -1,0 +1,302 @@
+[
+    {
+        "chef_id": "C001",
+        "recipe_id": "R001",
+        "recipe_name": "Bengali Fish Curry",
+        "photo": "https://i.ibb.co/B3wqwMN/fish-curry.jpg",
+        "ingredients": [
+            "Fish",
+            "Onion",
+            "Garlic",
+            "Ginger",
+            "Turmeric"
+        ],
+        "cooking_method": "1. Heat oil in a pan. 2. Fry onion, garlic and ginger. 3. Add turmeric and fry for a minute. 4. Add fish and cook for 10 minutes. 5. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "chef_id": "C002",
+        "recipe_id": "R002",
+        "recipe_name": "Beef Bhuna",
+        "photo": "https://i.ibb.co/58bf7Wf/beef-vuna.jpg",
+        "ingredients": [
+            "Beef",
+            "Onion",
+            "Tomato",
+            "Ginger",
+            "Garlic"
+        ],
+        "cooking_method": "1. Heat oil in a pan. 2. Fry onion, garlic and ginger. 3. Add tomato and cook for 5 minutes. 4. Add beef and cook for 30 minutes. 5. Serve hot.",
+        "rating": 4.2
+    },
+    {
+        "chef_id": "C003",
+        "recipe_id": "R003",
+        "recipe_name": "Chicken Korma",
+        "photo": "https://i.ibb.co/W0NbBxF/chicken-korma.jpg",
+        "ingredients": [
+            "Chicken",
+            "Onion",
+            "Garlic",
+            "Ginger",
+            "Cream"
+        ],
+        "cooking_method": "1. Heat oil in a pan. 2. Fry onion, garlic and ginger. 3. Add chicken and cook for 20 minutes. 4. Add cream and cook for 5 minutes. 5. Serve hot.",
+        "rating": 4.8
+    },
+    {
+        "chef_id": "C004",
+        "recipe_id": "R004",
+        "recipe_name": "Chapli Kabab",
+        "photo": "https://i.ibb.co/NmTDdcZ/chapli-kabab.jpg",
+        "ingredients": [
+            "Beef",
+            "Onion",
+            "Tomato",
+            "Cilantro",
+            "Green chilies"
+        ],
+        "cooking_method": "1. Mix all ingredients in a bowl. 2. Make patties and fry in a pan. 3. Serve hot with chutney.",
+        "rating": 4.7
+    },
+    {
+        "chef_id": "C005",
+        "recipe_id": "R005",
+        "recipe_name": "Chingri Malai Curry",
+        "photo": "https://i.ibb.co/rd2DHpm/Chingri-Macher-Malai-Curry.jpg",
+        "ingredients": [
+            "Shrimp",
+            "Coconut milk",
+            "Onion",
+            "Garlic",
+            "Ginger"
+        ],
+        "cooking_method": "1. Heat oil in a pan. 2. Fry onion, garlic and ginger. 3. Add shrimp and cook for 10 minutes. 4. Add coconut milk and cook for 5 minutes. 5. Serve hot.",
+        "rating": 4.4
+    },
+    {
+        "chef_id": "C002",
+        "recipe_id": "R006",
+        "recipe_name": "Dal Bhat",
+        "photo": "https://i.ibb.co/7p8rSWv/dal-vat.jpg",
+        "ingredients": [
+            "Lentils",
+            "Rice",
+            "Onion",
+            "Garlic",
+            "Ginger"
+        ],
+        "cooking_method": "1. Boil lentils and rice separately. 2. Fry onion, garlic and ginger. 3. Add lentils and cook for 10 minutes. 4. Serve hot with rice.",
+        "rating": 4.0
+    },
+    {
+        "chef_id": "C006",
+        "recipe_id": "R007",
+        "recipe_name": "Shutki Bhorta",
+        "photo":"https://i.ibb.co/KDQvmx5/Loitta-Shutki-Vorta.jpg",
+        "ingredients": [
+            "Dried fish",
+            "Onion",
+            "Green chilies",
+            "Mustard oil",
+            "Salt"
+        ],
+        "cooking_method": "1. Soak dried fish in water for several hours\n2. Boil fish in water with salt\n3. Drain excess water and mash the fish with a fork\n4. Fry onion and green chilies in mustard oil until golden brown\n5. Add mashed fish and fry for a few minutes\n6. Serve hot with rice",
+        "rating": 4.6
+    },
+    {
+        "chef_id": "C003",
+        "recipe_id": "R008",
+        "recipe_name": "Shorshe Chingri",
+        "photo": "https://i.ibb.co/5FPTfH5/Shorshe-Chingri.jpg",
+        "ingredients": [
+            "Prawns",
+            "Mustard paste",
+            "Green chilies",
+            "Coconut milk",
+            "Mustard oil"
+        ],
+        "cooking_method": "Marinate prawns with mustard paste and turmeric powder. Fry prawns in mustard oil with green chilies. Add coconut milk and simmer. Serve hot.",
+        "rating": 4.7
+    },
+    {
+        "chef_id": "C002",
+        "recipe_id": "R009",
+        "recipe_name": "Morog Pulao",
+        "photo": "https://i.ibb.co/nzS9sxF/morog-polao.jpg",
+        "ingredients": [
+            "Chicken",
+            "Basmati rice",
+            "Yogurt",
+            "Onion",
+            "Spices"
+        ],
+        "cooking_method": "Marinate chicken with yogurt and spices. Cook basmati rice separately. In a pan, fry onions and spices. Add chicken and cooked rice, mix well and cook for a while. Serve hot.",
+        "rating": 4.8
+    },
+    {
+        "chef_id": "C004",
+        "recipe_id": "R0010",
+        "recipe_name": "Bhuna Khichuri",
+        "photo": "https://i.ibb.co/MVrY3pg/Bhuni-khichuri.jpg",
+        "ingredients": [
+            "Rice",
+            "Lentils",
+            "Ghee",
+            "Onion",
+            "Spices"
+        ],
+        "cooking_method": "Cook rice and lentils together. In a separate pan, fry onions and spices in ghee. Mix everything together and serve.",
+        "rating": 4.2
+    },
+    {
+        "chef_id": "C003",
+        "recipe_id": "R0011",
+        "recipe_name": "Shorshe Ilish",
+        "photo": "https://i.ibb.co/CsQwsyv/shorshe-ilish.jpg",
+        "ingredients": [
+            "Hilsa fish",
+            "Mustard paste",
+            "Green chilies",
+            "Turmeric powder",
+            "Mustard oil"
+        ],
+        "cooking_method": "Marinate fish in mustard paste and turmeric powder. Fry fish in mustard oil with green chilies. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "chef_id": "C005",
+        "recipe_id": "R0012",
+        "recipe_name": "Biryani",
+        "photo": "https://i.ibb.co/D94GTS6/biriyani.jpg",
+        "ingredients": [
+            "Basmati rice",
+            "Chicken",
+            "Onion",
+            "Yogurt",
+            "Spices"
+        ],
+        "cooking_method": "1. Marinate chicken with spices and yogurt. 2. Fry onions until golden. 3. Cook rice separately. 4. Layer rice and chicken, and cook together until done.",
+        "rating": 4.8
+    },
+    {
+        "chef_id": "C006",
+        "recipe_id": "R0013",
+        "recipe_name": "Kacchi Biryani",
+        "photo": "https://i.ibb.co/YZrf59K/kacci-biriyani.jpg",
+        "ingredients": [
+            "Basmati rice",
+            "Marinated meat",
+            "Yogurt",
+            "Onion",
+            "Spices"
+        ],
+        "cooking_method": "1. Marinate meat with spices and yogurt. 2. Fry onions until golden. 3. Layer rice and meat, and cook together until done.",
+        "rating": 4.9
+    },
+    {
+        "chef_id": "C006",
+        "recipe_id": "R0014",
+        "recipe_name": "Chicken Biryani",
+        "photo": "https://i.ibb.co/ryRf9Wn/chicken-biriyani.jpg",
+        "ingredients": [
+            "Chicken",
+            "Basmati rice",
+            "Yogurt",
+            "Onion",
+            "Ginger"
+        ],
+        "cooking_method": "1. Marinate chicken in yogurt and spices.\n2. Cook rice separately.\n3. Fry onions and ginger.\n4. Layer rice and chicken in a pot.\n5. Cook on low heat until rice and chicken are done.",
+        "rating": 4.8
+    },
+    {
+        "chef_id": "C004",
+        "recipe_id": "R0015",
+        "recipe_name": "Beef Bhuna",
+        "photo": "https://i.ibb.co/XWzFMPM/Beef-Bhuna.jpg",
+        "ingredients": [
+            "Beef",
+            "Onion",
+            "Garlic",
+            "Ginger",
+            "Chili powder"
+        ],
+        "cooking_method": "1. Cook beef with onions, garlic, and ginger.\n2. Add spices like chili powder and salt.\n3. Cook on low heat until beef is tender and the gravy thickens.\n4. Serve with rice or roti.",
+        "rating": 4.4
+    },
+    {
+        "chef_id": "C003",
+        "recipe_id": "R0016",
+        "recipe_name": "Shami Kebab",
+        "photo": "https://i.ibb.co/3CbhM1X/shami-kabab.jpg",
+        "ingredients": [
+            "Minced meat",
+            "Chickpeas",
+            "Onion",
+            "Ginger-garlic paste",
+            "Spices"
+        ],
+        "cooking_method": "1. Boil minced meat and chickpeas together\n2. Grind into a paste\n3. Saute onions and ginger-garlic paste\n4. Mix with the meat and chickpea paste\n5. Shape into kebabs and fry until golden brown",
+        "rating": 4.6
+    },
+    {
+        "chef_id": "C006",
+        "recipe_id": "R0017",
+        "recipe_name": "Shatkora Bharta",
+        "photo": "https://i.ibb.co/C5zVtt8/satkora.jpg",
+        "ingredients": [
+            "Shatkora",
+            "Mustard oil",
+            "Onion",
+            "Green chilies",
+            "Coriander leaves"
+        ],
+        "cooking_method": "1. Roast shatkora over an open flame until charred\n2. Peel and mash the roasted shatkora\n3. Heat mustard oil in a pan\n4. Saute onion and green chilies\n5. Add mashed shatkora and cook for a few minutes\n6. Garnish with coriander leaves",
+        "rating": 4.7
+    },
+    {
+        "chef_id": "C001",
+        "recipe_id": "R0018",
+        "recipe_name": "Pui Shak Chorchori",
+        "photo": "https://i.ibb.co/7vHtNPC/pui-shak.jpg",
+        "ingredients": [
+            "Pui shak",
+            "Potato",
+            "Pumpkin",
+            "Mustard oil",
+            "Panch phoron"
+        ],
+        "cooking_method": "1. Wash and chop pui shak, potato, and pumpkin\n2. Heat mustard oil in a pan\n3. Add panch phoron and let it splutter\n4. Add chopped vegetables and stir-fry for a minute\n5. Cover and cook until the vegetables are tender\n6. Serve hot",
+        "rating": 4.6
+    },
+    {
+        "chef_id": "C005",
+        "recipe_id": "R0019",
+        "recipe_name": "Shorshe Pabda",
+        "photo": "https://i.ibb.co/F8w4t68/Pabda-Macher-Tel-Jhal-Recipe.jpg",
+        "ingredients": [
+            "Pabda fish",
+            "Mustard paste",
+            "Turmeric powder",
+            "Green chilies",
+            "Mustard oil"
+        ],
+        "cooking_method": "1. Clean and marinate Pabda fish with mustard paste, turmeric powder, and salt\n2. Heat mustard oil in a pan\n3. Fry fish on both sides until golden brown\n4. In the same pan, add green chilies and mustard paste\n5. Cook for a minute\n6. Add fried fish and simmer for a few minutes\n7. Serve hot",
+        "rating": 4.4
+    },
+    {
+        "chef_id": "C001",
+        "recipe_id": "R0020",
+        "recipe_name": "Chingri Malaikari",
+        "photo": "https://i.ibb.co/845whxq/chingri.jpg",
+        "ingredients": [
+            "Prawns",
+            "Coconut milk",
+            "Onion",
+            "Ginger-garlic paste",
+            "Spices"
+        ],
+        "cooking_method": "1. Clean and devein prawns 2. Heat oil in a pan 3. Saute onion and ginger-garlic paste 4. Add spices and stir-fry for a minute 5. Add prawns and cook until they turn pink 6. Add coconut milk and simmer until the gravy thickens",
+        "rating": 4.8
+    }
+]
