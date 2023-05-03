@@ -18,7 +18,7 @@ app.get('/chefinfo', (req, res) => {
     res.send(chefinfo);
 });
 
-// API for ChefInfo id wise recipes
+// API for ChefInfo id wise 3 or more recipes
 
 app.get('/chefinfo/:id', (req, res) => {
     const {id} = req.params;
@@ -34,11 +34,19 @@ app.get('/chefinfo/:id', (req, res) => {
 app.get('/recipes', (req, res) => {
     res.send(recipes);
  });
+
+//  APIfor Recipe Details
+
+app.get('/recipes/:id', (req, res) =>{
+    const id = req.params.id;
+    console.log(id);
+    const selectedRecipe = recipes.find(n=>n.recipe_id === id);
+    res.send(selectedRecipe);
+})
+
+
  
- // app.get('/recipes/:id', (req, res) => {
- //     const id = (req.params.recipe_id);
- //     console.log(id);
- // });
+
  
 
 
